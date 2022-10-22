@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<sample t="397683" it="0" lt="0" ct="0" ts="1666439807707" s="true" lb="OS Process Sampler" rc="0" rm="OK" tn="10.75.4.82-Thread Group 1-1" dt="text" by="8357" sby="0" ng="1" na="1">
+<sample t="1529" it="0" lt="0" ct="0" ts="1666453162603" s="true" lb="OS Process Sampler" rc="1" rm="OK" tn="10.75.4.82-Thread Group 1-1" dt="text" by="3862" sby="0" ng="1" na="1">
+  <responseData class="java.lang.String"></responseData>
+</sample>
+
+<sample t="25592" it="0" lt="0" ct="0" ts="1666453476752" s="true" lb="OS Process Sampler" rc="0" rm="OK" tn="10.75.4.82-Thread Group 1-1" dt="text" by="689" sby="0" ng="1" na="1">
   <responseData class="java.lang.String"></responseData>
 </sample>
 

@@ -265,7 +265,7 @@ gui.quick_9=ViewResultsFullVisualizer
 #---------------------------------------------------------------------------
 
 # Remote Hosts - comma delimited
-remote_hosts=10.75.4.82
+remote_hosts=10.75.4.84:4000
 #remote_hosts=localhost:1099,localhost:2010
 
 # RMI port to be used by the server (must start rmiregistry with same port)
@@ -289,7 +289,7 @@ remote_hosts=10.75.4.82
 # Default value is 0 which means ports are randomly assigned
 # If you specify a base port, JMeter will (at the moment) use the ports that start one after the given base.
 # You may need to open Firewall port on the Controller machine
-client.rmi.localport=8001
+client.rmi.localport=4000
 
 # When distributed test is starting, there may be several attempts to initialize
 # remote engines. By default, only single try is made. Increase following property
@@ -304,7 +304,7 @@ client.rmi.localport=8001
 #client.continue_on_fail=false
 
 # To change the default port (1099) used to access the server:
-server.rmi.port=8001
+server.rmi.port=4000
 
 # To use a specific port for the JMeter server engine, define
 # the following property before starting the server:
@@ -343,10 +343,6 @@ server.rmi.port=8001
 #
 # Set this if you don't want to use SSL for RMI
 server.rmi.ssl.disable=true
-
-#jmeter.save.saveservice.output_format=xml
-#jmeter.save.saveservice.response_data=true
-#jmeter.save.saveservice.response_data.on_error=true
 #---------------------------------------------------------------------------
 #         Include Controller
 #---------------------------------------------------------------------------
