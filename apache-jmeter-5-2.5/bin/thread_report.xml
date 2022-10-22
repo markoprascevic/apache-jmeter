@@ -1,2 +1,7 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1666436065015,394293,OS Process Sampler,0,OK,10.75.4.82-Thread Group 1-1,text,true,,8377,0,1,1,null,0,0,0
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="402521" it="0" lt="0" ct="0" ts="1666437885224" s="true" lb="OS Process Sampler" rc="0" rm="OK" tn="10.75.4.82-Thread Group 1-1" dt="text" by="8369" sby="0" ng="1" na="1">
+  <responseData class="java.lang.String"></responseData>
+</sample>
+
+</testResults>
