@@ -1,0 +1,62 @@
+2022-10-23 14:30:27,234 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-10-23 14:30:27,251 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.5/libexec/bin/user.properties
+2022-10-23 14:30:27,251 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.5/libexec/bin/system.properties
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: Version 5.5
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: java.version=18.0.2.1
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: os.arch=aarch64
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: os.version=12.6
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: java.awt.headless=null
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-10-23 14:30:27,255 INFO o.a.j.JMeter: Available Processors =8
+2022-10-23 14:30:27,261 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-10-23 14:30:27,261 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-10-23 14:30:27,261 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.5/libexec
+2022-10-23 14:30:27,261 INFO o.a.j.JMeter: user.dir  =/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter
+2022-10-23 14:30:27,261 INFO o.a.j.JMeter: PWD       =/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter
+2022-10-23 14:30:27,262 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: Markos-MacBook-Pro.local FullName: localhost
+2022-10-23 14:30:27,268 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-10-23 14:30:27,633 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-10-23 14:30:29,401 INFO o.j.r.JARSourceHTTP: Found cached repo
+2022-10-23 14:30:29,465 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.7, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2022-10-23 14:30:29,465 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2022-10-23 14:30:43,190 INFO o.a.j.s.FileServer: Default base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:30:43,192 INFO o.a.j.g.a.Load: Loading file: /Users/markoprascevic/Desktop/OSProcessSampler3.jmx
+2022-10-23 14:30:43,193 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop'
+2022-10-23 14:30:43,290 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-10-23 14:30:43,294 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-10-23 14:30:43,294 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-10-23 14:30:43,295 INFO o.a.j.s.SaveService: Loading file: /Users/markoprascevic/Desktop/OSProcessSampler3.jmx
+2022-10-23 14:30:43,387 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-10-23 14:30:43,387 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-10-23 14:30:43,387 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-10-23 14:30:43,387 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-10-23 14:30:43,465 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-10-23 14:30:43,503 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop'
+2022-10-23 14:31:33,801 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:32:02,345 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:32:22,842 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:32:47,137 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:33:52,321 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:34:17,009 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:34:33,875 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:34:50,523 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:35:13,496 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:35:26,145 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:36:57,366 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:37:15,172 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:37:40,926 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:37:58,657 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:38:19,291 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:38:32,277 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:38:51,045 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:39:25,591 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:39:48,940 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:40:05,064 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:40:27,139 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:40:41,315 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:41:37,580 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
+2022-10-23 14:41:53,859 INFO o.a.j.s.FileServer: Set new base='/Users/markoprascevic/Desktop/SE2_Apache_Jmeter_With_Results/apache-jmeter'
