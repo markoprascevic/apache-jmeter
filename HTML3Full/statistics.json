@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 3,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 410594.3333333333,
+    "medianResTime" : 409745.0,
+    "minResTime" : 406699.0,
+    "maxResTime" : 415339.0,
+    "pct1ResTime" : 415339.0,
+    "pct2ResTime" : 415339.0,
+    "pct3ResTime" : 415339.0,
+    "throughput" : 0.007147349762707989,
+    "receivedKBytesPerSec" : 0.029077987413517067,
+    "sentKBytesPerSec" : 0.0
+  },
+  "OS Process Sampler" : {
+    "transaction" : "OS Process Sampler",
+    "sampleCount" : 3,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 410594.3333333333,
+    "medianResTime" : 409745.0,
+    "minResTime" : 406699.0,
+    "maxResTime" : 415339.0,
+    "pct1ResTime" : 415339.0,
+    "pct2ResTime" : 415339.0,
+    "pct3ResTime" : 415339.0,
+    "throughput" : 0.007147349762707989,
+    "receivedKBytesPerSec" : 0.029077987413517067,
+    "sentKBytesPerSec" : 0.0
+  }
+}
